@@ -1,6 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
+//prints a line of # which is n long
 int main(void){
     // Prompt user for a positive number
     int n;
